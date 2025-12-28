@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi 👋, I'm Sucharitha B
 
@@ -13,6 +13,7 @@
 - 📫 How to reach me **e0122047@sret.edu.in**
 
 - ⚡ Fun fact **Adaptable and Creative Problem-Solver**
+[Download Resume PDF](Sucharitha%20B.pdf)
 
 <br/>
 

@@ -1,13 +1,15 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+## GitHub Contribution Pac-Man 🟡👻
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hackerette0/Hackerette0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hackerette0/Hackerette0/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Hackerette0/Hackerette0/output/pacman-contribution-graph.svg">
 </picture>
 
+*Generated with [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)*
 ###
 
 <div align="left">

@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [Github](#) <!-- Replace # with your GitHub projects link if any -->
+- 👨‍💻 All of my projects are available at [Github](#)
 
 - 💬 Ask me about **Python, Machine Learning, Web Development, Data Structures & Algorithms**
 
-- 📫 How to reach me **e0122047@sret.edu.in**
+- 📫 How to reach me **bathalasucharitha79@gmail.com**
 
 - ⚡ Fun fact **Adaptable and Creative Problem-Solver**
 [Download Resume PDF](Sucharitha%20B.pdf)
